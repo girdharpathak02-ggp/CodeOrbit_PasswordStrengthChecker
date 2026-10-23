@@ -39,4 +39,4 @@ A simple Python program that checks if a password is strong or weak and tells th
 
 ## GitHub Repository Link
 
-Add your repository link here: `https://github.com/<your-username>/<repo-name>`
+Add your repository link here: `https://github.com/girdharpathak02-ggp/CodeOrbit_PasswordStrengthChecker'
